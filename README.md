@@ -1,1 +1,1 @@
-# profile-generator
+# DeveloperProfileGenerator
